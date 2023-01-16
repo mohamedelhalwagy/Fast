@@ -1,0 +1,4 @@
+# requirements.txt file
+matplotlib
+jupyter notebook
+opencv-python
